@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nayeshdaggula/dropdowndatepicker.git"
+    "url": "git+https://github.com/nayeshdaggula/dropdown_date_picker.git"
   },
   "author": "",
   "license": "MIT",
@@ -31,7 +31,7 @@
       "dist"
   ],
   "bugs": {
-    "url": "https://github.com/nayeshdaggula/dropdowndatepicker/issues"
+    "url": "https://github.com/nayeshdaggula/dropdown_date_picker/issues"
   },
-  "homepage": "https://github.com/nayeshdaggula/dropdowndatepicker#readme"
+  "homepage": "https://github.com/nayeshdaggula/dropdown_date_picker#readme"
 }
